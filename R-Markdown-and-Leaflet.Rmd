@@ -1,0 +1,37 @@
+---
+title: "R-Markdown-and-Leaflet"
+author: "Nur Seto Dimas"
+date: "1 July 2019"
+output: html_document
+---
+
+# ***Introduction***  
+This webpage shows the location of fuel stations in Jakarta. The data taken from openstreetmap through overpass-turbo.
+
+
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+library(leaflet)
+library(dplyr)
+library(sf)
+
+# load the dataset from geojson 
+fuel_station <- read_sf("fuel station.geojson")
+
+# cleaning up and tidying data set
+fuel_station <- fuel_station %>%
+        select(name, geometry)
+
+# creating map with clustering
+leaflet(data = fuel_station) %>%
+        addTiles() %>%
+        addMarkers(
+                clusterOptions = markerClusterOptions(),
+                popup = fuel_station$name)
+```
+
+# ***Data Sources***  
+
+Data © [OpenStreetMap](http://openstreetmap.org/) contributors, ODbL (Terms)  
+Data mining by [Overpass API](http://overpass-api.de/)  
+Map tiles © [OpenStreetMap](http://openstreetmap.org/) contributors, [CC-BY-SA](http://creativecommons.org/licenses/by-sa/2.0/)  
+Search provided by [Nominatim](http://wiki.openstreetmap.org/wiki/Nominatim)
