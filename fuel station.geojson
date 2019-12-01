@@ -1,0 +1,7013 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-12-01T07:27:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309671626",
+        "amenity": "fuel",
+        "name": "SPBU",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8291981,
+          -6.1919313
+        ]
+      },
+      "id": "node/309671626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310348868",
+        "addr:street": "Jalan Raya Pasar Minggu",
+        "amenity": "fuel",
+        "name": "SPBU 34.127.07",
+        "operator": "PT Pertamina",
+        "phone": "+62 21 799 0888"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8426008,
+          -6.2449582
+        ]
+      },
+      "id": "node/310348868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321964917",
+        "amenity": "fuel",
+        "name": "SPBU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8965435,
+          -6.371344
+        ]
+      },
+      "id": "node/321964917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/407492040",
+        "amenity": "fuel",
+        "name": "SPBU",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9336357,
+          -6.1324155
+        ]
+      },
+      "id": "node/407492040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/408183254",
+        "amenity": "fuel",
+        "brand": "Independent",
+        "fuel:biodiesel": "yes",
+        "fuel:diesel": "yes",
+        "name": "SPBU",
+        "opening_hours": "24/7",
+        "operator": "SWASTA",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.906899,
+          -6.129402
+        ]
+      },
+      "id": "node/408183254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/491670493",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cakung Cilincing Timur",
+        "amenity": "fuel",
+        "name": "SPBU 34-13906",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9430887,
+          -6.1705418
+        ]
+      },
+      "id": "node/491670493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1357994635",
+        "amenity": "fuel",
+        "name": "SPBU",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8117767,
+          -6.2915593
+        ]
+      },
+      "id": "node/1357994635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1360100037",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_98": "yes",
+        "name": "SPBU",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8205004,
+          -6.2200779
+        ]
+      },
+      "id": "node/1360100037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774153745",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapten Pierre Tendean",
+        "amenity": "fuel",
+        "name": "Total",
+        "operator": "Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8187268,
+          -6.2391237
+        ]
+      },
+      "id": "node/4774153745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774154144",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapten Pierre Tendean",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8194166,
+          -6.2395885
+        ]
+      },
+      "id": "node/4774154144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774154145",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapten Pierre Tendean",
+        "amenity": "fuel",
+        "name": "31.127.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8204814,
+          -6.2402711
+        ]
+      },
+      "id": "node/4774154145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774154146",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapten Pierre Tendean",
+        "amenity": "fuel",
+        "name": "34 12702",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8263192,
+          -6.2397565
+        ]
+      },
+      "id": "node/4774154146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776282180",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Dewi Sartika",
+        "amenity": "fuel",
+        "name": "SPBU 34-13604 Pertamina",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8637736,
+          -6.257122
+        ]
+      },
+      "id": "node/4776282180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4776282181",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan MT Haryono",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8645287,
+          -6.2436253
+        ]
+      },
+      "id": "node/4776282181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785538572",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pasar Minggu",
+        "amenity": "fuel",
+        "name": "SPBU Perdatam",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8425802,
+          -6.2471462
+        ]
+      },
+      "id": "node/4785538572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785756434",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Gereja Theresia",
+        "amenity": "fuel",
+        "name": "SPBU 3410301",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8282616,
+          -6.191465
+        ]
+      },
+      "id": "node/4785756434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4785880280",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Mayjend Sutoyo",
+        "amenity": "fuel",
+        "name": "Pertamina 31.136.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8679579,
+          -6.2600612
+        ]
+      },
+      "id": "node/4785880280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790207829",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan M.T. Haryono",
+        "addr:housenumber": "8",
+        "addr:postcode": "12810",
+        "addr:street": "Jalan Letjen M. T. Haryono",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "SPBU Total",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Total",
+        "phone": "+62 21 8370 1584",
+        "source": "HOT_InAWARESurvey_2017",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8497806,
+          -6.2427441
+        ]
+      },
+      "id": "node/4790207829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790415139",
+        "addr:city": "DKI Jakarta",
+        "addr:postcode": "12810",
+        "addr:street": "Jalan Prof. Dr. Soepomo",
+        "amenity": "fuel",
+        "name": "SPBU 34-12804",
+        "opening_hours": "24/7",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8446216,
+          -6.2356951
+        ]
+      },
+      "id": "node/4790415139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791001409",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Casablanca",
+        "amenity": "fuel",
+        "name": "SPBU 34-12805",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8412042,
+          -6.2252675
+        ]
+      },
+      "id": "node/4791001409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791147729",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jl. M.T Haryono",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31.128.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8524759,
+          -6.2425492
+        ]
+      },
+      "id": "node/4791147729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791147730",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Prof. Dr. Soepomo",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.846869,
+          -6.2311336
+        ]
+      },
+      "id": "node/4791147730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791261403",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Prof. Dr. Soepomo SH",
+        "addr:housenumber": "57",
+        "addr:postcode": "12870",
+        "addr:street": "Jalan Prof. Dr. Soepomo",
+        "amenity": "fuel",
+        "name": "SPBU 34-12806",
+        "opening_hours": "24/7",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8444872,
+          -6.2385353
+        ]
+      },
+      "id": "node/4791261403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4791261404",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jenderal Gatot Subroto",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8371272,
+          -6.2407971
+        ]
+      },
+      "id": "node/4791261404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798111727",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Condet Raya",
+        "amenity": "fuel",
+        "name": "Pertamina 34-13502",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.855678,
+          -6.289492
+        ]
+      },
+      "id": "node/4798111727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4798377119",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Menteng Raya",
+        "amenity": "fuel",
+        "name": "Shell SPBU",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.836078,
+          -6.1851555
+        ]
+      },
+      "id": "node/4798377119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4800526055",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Dewi Sartika",
+        "amenity": "fuel",
+        "name": "SBPU 34-13602 Pertamina",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.864766,
+          -6.2521568
+        ]
+      },
+      "id": "node/4800526055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4804984337",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jl K.H Abdullah Syafi'ie",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8526598,
+          -6.2248359
+        ]
+      },
+      "id": "node/4804984337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4804984338",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan MT Haryono",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.855554,
+          -6.2425668
+        ]
+      },
+      "id": "node/4804984338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4806817938",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pasar Minggu",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8431152,
+          -6.2642541
+        ]
+      },
+      "id": "node/4806817938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807104220",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cikini Raya",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31.103.03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8404502,
+          -6.196053
+        ]
+      },
+      "id": "node/4807104220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807104221",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cikini",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8363186,
+          -6.190681
+        ]
+      },
+      "id": "node/4807104221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807213829",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Mampang Prapatan Raya",
+        "amenity": "fuel",
+        "name": "34 12706",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8268235,
+          -6.2478141
+        ]
+      },
+      "id": "node/4807213829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4807213830",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Mampang Prapatan Raya",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8264172,
+          -6.246421
+        ]
+      },
+      "id": "node/4807213830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4814732826",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi Timur",
+        "amenity": "fuel",
+        "name": "SPBU Envogas 31.A.139.04",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9064354,
+          -6.1908909
+        ]
+      },
+      "id": "node/4814732826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815388558",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jendral Gatot Subroto",
+        "amenity": "fuel",
+        "brand": "Pertamina",
+        "brand:wikidata": "Q1641044",
+        "brand:wikipedia": "en:Pertamina",
+        "name": "Pertamina",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8225481,
+          -6.2329641
+        ]
+      },
+      "id": "node/4815388558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4815388560",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan H.R Rasuna Said",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8339314,
+          -6.2285425
+        ]
+      },
+      "id": "node/4815388560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818368102",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Dr KRT Radjiman Widyodiningrat",
+        "amenity": "fuel",
+        "name": "SPBU 34-13909",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9231904,
+          -6.2065101
+        ]
+      },
+      "id": "node/4818368102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4819451980",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jendral Ahmad Yani",
+        "amenity": "fuel",
+        "name": "SPBU SHELL",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8748648,
+          -6.185917
+        ]
+      },
+      "id": "node/4819451980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4819936838",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemang Raya No 33A",
+        "addr:postcode": "12730",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "phone": "+62 21 719 4429",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8157057,
+          -6.2608547
+        ]
+      },
+      "id": "node/4819936838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4819936839",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemang Raya",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Total",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Total",
+        "phone": "+62 21 719 1229",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8154697,
+          -6.2610333
+        ]
+      },
+      "id": "node/4819936839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821756674",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Buncit Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34.127.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8288731,
+          -6.2615734
+        ]
+      },
+      "id": "node/4821756674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4821756681",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Buncit Raya",
+        "amenity": "fuel",
+        "name": "SPBU Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8301139,
+          -6.2644488
+        ]
+      },
+      "id": "node/4821756681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4830269685",
+        "addr:city": "DKI Jakarta",
+        "addr:housenumber": "154",
+        "addr:postcode": "13310",
+        "addr:street": "Jalan Bekasi Timur",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "phone": "+62 21 8591 4047",
+        "source": "HOT_InAWARESurvey_2017",
+        "tenant": "Ade Arifandi",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8796743,
+          -6.2151778
+        ]
+      },
+      "id": "node/4830269685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832316137",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemang raya",
+        "amenity": "fuel",
+        "name": "31.127.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8188158,
+          -6.2735191
+        ]
+      },
+      "id": "node/4832316137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832316140",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemang Raya",
+        "amenity": "fuel",
+        "name": "34.12105",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8157594,
+          -6.266671
+        ]
+      },
+      "id": "node/4832316140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832640582",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi",
+        "amenity": "fuel",
+        "name": "SPBU 31-13902",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9146192,
+          -6.182801
+        ]
+      },
+      "id": "node/4832640582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4833850738",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kramat Raya",
+        "amenity": "fuel",
+        "name": "SPBU Kwitang",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8436367,
+          -6.1849526
+        ]
+      },
+      "id": "node/4833850738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836240645",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pramuka",
+        "amenity": "fuel",
+        "name": "SPBU 31.131.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8640405,
+          -6.1933632
+        ]
+      },
+      "id": "node/4836240645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836392728",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kalimalang",
+        "amenity": "fuel",
+        "name": "SPBU 34.13420",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8883193,
+          -6.2390363
+        ]
+      },
+      "id": "node/4836392728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4840773555",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cipinang Jaya Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34.13413",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8862411,
+          -6.2218999
+        ]
+      },
+      "id": "node/4840773555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841133538",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan D.I. Panjaitan",
+        "amenity": "fuel",
+        "name": "SPBU 34-13417",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8777895,
+          -6.2352718
+        ]
+      },
+      "id": "node/4841133538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841684309",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi",
+        "amenity": "fuel",
+        "name": "SPBU 34-13910",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9480772,
+          -6.1854894
+        ]
+      },
+      "id": "node/4841684309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4841684319",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi",
+        "addr:housenumber": "23",
+        "addr:postcode": "13910",
+        "addr:street": "Bekasi Raya",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "SPBU 10048251",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "PT Pertamina",
+        "phone": "+62 21 4682 5508",
+        "source": "HOT_InAWARESurvey_2017",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9445459,
+          -6.1843023
+        ]
+      },
+      "id": "node/4841684319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842722109",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Basuki Rahmat",
+        "amenity": "fuel",
+        "name": "SPBU 34 13414",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.879686,
+          -6.2265326
+        ]
+      },
+      "id": "node/4842722109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4842977972",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan I Gusti Ngurah Rai",
+        "amenity": "fuel",
+        "name": "34.13201",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8933772,
+          -6.2137219
+        ]
+      },
+      "id": "node/4842977972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4844843756",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan letjen Suprapto",
+        "amenity": "fuel",
+        "name": "SPBU 34.10605",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8536456,
+          -6.1740183
+        ]
+      },
+      "id": "node/4844843756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849205567",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan KH .Mas Mansyur",
+        "amenity": "fuel",
+        "name": "SPBU 34 10203",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8139449,
+          -6.1970444
+        ]
+      },
+      "id": "node/4849205567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849427751",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cempaka Putih Raya",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-10507",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8677185,
+          -6.1760503
+        ]
+      },
+      "id": "node/4849427751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4849427752",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jendral Ahmad Yani",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-10504",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8750376,
+          -6.1848315
+        ]
+      },
+      "id": "node/4849427752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855236362",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Letjen S. Parman No.15",
+        "amenity": "fuel",
+        "name": "Shell V-Power Slipi",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7976037,
+          -6.1987112
+        ]
+      },
+      "id": "node/4855236362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855236364",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Palmerah Utara III No.1",
+        "amenity": "fuel",
+        "name": "SPBU 34.11405",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7970228,
+          -6.2036587
+        ]
+      },
+      "id": "node/4855236364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855915799",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kembangan Raya",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7364572,
+          -6.1845524
+        ]
+      },
+      "id": "node/4855915799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855915803",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ring Road Bojong - Cengkareng",
+        "amenity": "fuel",
+        "name": "SPBU 34-116-10",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7303157,
+          -6.1843862
+        ]
+      },
+      "id": "node/4855915803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857308378",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pramuka",
+        "amenity": "fuel",
+        "name": "SPBU 31.132.08",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8737697,
+          -6.196145
+        ]
+      },
+      "id": "node/4857308378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4857771277",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi KM 22",
+        "amenity": "fuel",
+        "name": "SPBU 31.139.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9341595,
+          -6.1823192
+        ]
+      },
+      "id": "node/4857771277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859352224",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Puri Kembangan",
+        "amenity": "fuel",
+        "name": "SPBU 34 11602",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7486143,
+          -6.1789556
+        ]
+      },
+      "id": "node/4859352224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4859352278",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kembangan Selatan",
+        "amenity": "fuel",
+        "name": "SPBU 34-11611",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7253569,
+          -6.1868261
+        ]
+      },
+      "id": "node/4859352278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863139806",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemanggisan Utama No.124",
+        "amenity": "fuel",
+        "name": "Shell Kemanggisan",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7926186,
+          -6.189526
+        ]
+      },
+      "id": "node/4863139806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863185623",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Letjen Suprapto",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "name": "SPBU SHELL",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8648317,
+          -6.170649
+        ]
+      },
+      "id": "node/4863185623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4863790792",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan K.H. Mohammad Mansyur",
+        "amenity": "fuel",
+        "name": "SPBU 34.112.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8071193,
+          -6.1555621
+        ]
+      },
+      "id": "node/4863790792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4864234327",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "34 11605",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7517865,
+          -6.1972387
+        ]
+      },
+      "id": "node/4864234327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4871540560",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi Timur",
+        "amenity": "fuel",
+        "name": "SPBU 34-13901",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8902135,
+          -6.2117648
+        ]
+      },
+      "id": "node/4871540560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4871574186",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Meruya Ilir",
+        "amenity": "fuel",
+        "name": "SPBU 34-11606",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7602243,
+          -6.1982216
+        ]
+      },
+      "id": "node/4871574186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4877095390",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bekasi",
+        "amenity": "fuel",
+        "name": "SPBU 34-13908",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9673268,
+          -6.1895404
+        ]
+      },
+      "id": "node/4877095390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4877432329",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Hang Lekir I",
+        "amenity": "fuel",
+        "name": "SPBU 34.102.06",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7972991,
+          -6.2290031
+        ]
+      },
+      "id": "node/4877432329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878075539",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan KH Hasyim Ashari",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8125743,
+          -6.1650943
+        ]
+      },
+      "id": "node/4878075539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878075540",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cideng Timur No 21",
+        "amenity": "fuel",
+        "brand": "Total",
+        "brand:wikidata": "Q154037",
+        "brand:wikipedia": "fr:Total (entreprise)",
+        "name": "Total",
+        "operator": "Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8109712,
+          -6.1665138
+        ]
+      },
+      "id": "node/4878075540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4878078193",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan KH Zainal Arifin",
+        "amenity": "fuel",
+        "name": "34.10101",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8156099,
+          -6.1606103
+        ]
+      },
+      "id": "node/4878078193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881688232",
+        "addr:full": "Jalan Raya Pasar Minggu",
+        "amenity": "fuel",
+        "name": "SPBU Total"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8428966,
+          -6.2512976
+        ]
+      },
+      "id": "node/4881688232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882413930",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "amenity": "fuel",
+        "name": "SPBU 34-13206",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8872738,
+          -6.1938032
+        ]
+      },
+      "id": "node/4882413930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882413934",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "addr:postcode": "13220",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "SPBU 10053879",
+        "opening_hours": "05:00-23:00",
+        "operator": "PT Pertamina",
+        "phone": "+62 21 4786 1720",
+        "source": "HOT_InAWARESurvey_2017",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8890068,
+          -6.1938516
+        ]
+      },
+      "id": "node/4882413934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882725668",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jalur 20",
+        "amenity": "fuel",
+        "name": "SPBU 34 11607",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7298389,
+          -6.1960559
+        ]
+      },
+      "id": "node/4882725668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882936376",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pramuka",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34.10402",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8548885,
+          -6.1981556
+        ]
+      },
+      "id": "node/4882936376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883105494",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Sukarjo Wiryopranoto",
+        "amenity": "fuel",
+        "name": "34.10701",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8259089,
+          -6.1616249
+        ]
+      },
+      "id": "node/4883105494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883234773",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Abdul Muis No 59",
+        "addr:postcode": "10160",
+        "amenity": "fuel",
+        "fuel:octane_90": "yes",
+        "name": "31.102.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8181908,
+          -6.1785704
+        ]
+      },
+      "id": "node/4883234773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4883234775",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cideng Timur",
+        "amenity": "fuel",
+        "name": "34.10205",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8136031,
+          -6.1803568
+        ]
+      },
+      "id": "node/4883234775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884706503",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Minangkabau Timur",
+        "amenity": "fuel",
+        "name": "SPBU 34.12901",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8443794,
+          -6.2129573
+        ]
+      },
+      "id": "node/4884706503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884738032",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "amenity": "fuel",
+        "name": "SPBG A.31.03.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8997907,
+          -6.1930955
+        ]
+      },
+      "id": "node/4884738032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884741199",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8819188,
+          -6.1926726
+        ]
+      },
+      "id": "node/4884741199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884741200",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "amenity": "fuel",
+        "name": "SPBU 34-13209",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8824713,
+          -6.1926618
+        ]
+      },
+      "id": "node/4884741200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884984709",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "amenity": "fuel",
+        "name": "SPBU 13208",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8748459,
+          -6.1966305
+        ]
+      },
+      "id": "node/4884984709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4884984710",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pemuda",
+        "amenity": "fuel",
+        "name": "SPBU 34 13210",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8761943,
+          -6.1930577
+        ]
+      },
+      "id": "node/4884984710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887128396",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ks Tubun",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-11103",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8031694,
+          -6.198188
+        ]
+      },
+      "id": "node/4887128396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887130008",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Letjend S. Parman",
+        "amenity": "fuel",
+        "name": "Pertamina 31 - 114 - 01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797914,
+          -6.1936138
+        ]
+      },
+      "id": "node/4887130008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887139094",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Di Panjaitan",
+        "amenity": "fuel",
+        "name": "SPBU 34 133 02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8761993,
+          -6.2338285
+        ]
+      },
+      "id": "node/4887139094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887170808",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bungur Besar Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-10604",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8426633,
+          -6.1677556
+        ]
+      },
+      "id": "node/4887170808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887274446",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tomang Raya No.45",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31.114.04",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8016899,
+          -6.1763823
+        ]
+      },
+      "id": "node/4887274446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891293006",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Letjen Suprapto",
+        "amenity": "fuel",
+        "name": "SPBU 34-10505",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8483058,
+          -6.1752313
+        ]
+      },
+      "id": "node/4891293006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4891660556",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Joglo",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7406049,
+          -6.2204849
+        ]
+      },
+      "id": "node/4891660556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4892485177",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pulo Gebang",
+        "amenity": "fuel",
+        "name": "SPBU 34-13907",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9539593,
+          -6.2078268
+        ]
+      },
+      "id": "node/4892485177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4892485669",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pulo Gebang",
+        "amenity": "fuel",
+        "name": "SPBU 34-13905",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9559518,
+          -6.1997376
+        ]
+      },
+      "id": "node/4892485669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4899822031",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8381304,
+          -6.1606942
+        ]
+      },
+      "id": "node/4899822031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4900798939",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bekasi Timur",
+        "amenity": "fuel",
+        "name": "SPBU 34-13202",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.90341,
+          -6.1796169
+        ]
+      },
+      "id": "node/4900798939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4900862963",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bekasi Timur",
+        "amenity": "fuel",
+        "name": "SPBU 31.134.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9002557,
+          -6.2123834
+        ]
+      },
+      "id": "node/4900862963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903253111",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya PKP",
+        "amenity": "fuel",
+        "name": "SPBU 34-13709",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8748711,
+          -6.3407968
+        ]
+      },
+      "id": "node/4903253111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4905424974",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Penggilingan",
+        "amenity": "fuel",
+        "name": "SPBU 34-13903",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9349259,
+          -6.2044879
+        ]
+      },
+      "id": "node/4905424974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910065573",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Joglo",
+        "amenity": "fuel",
+        "name": "SPBU 34-11609",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7309374,
+          -6.2191008
+        ]
+      },
+      "id": "node/4910065573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910182664",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Muhammad Kahfi II",
+        "amenity": "fuel",
+        "name": "SPBU 3412601",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8179439,
+          -6.3428676
+        ]
+      },
+      "id": "node/4910182664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4910293116",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Meruya Ilir",
+        "amenity": "fuel",
+        "name": "SPBU",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.753381,
+          -6.1976979
+        ]
+      },
+      "id": "node/4910293116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4911895289",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pondok Gede Raya",
+        "amenity": "fuel",
+        "name": "Pertamina 34-13504",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8843596,
+          -6.2906294
+        ]
+      },
+      "id": "node/4911895289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4911895290",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "Pertamina 34.13503",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8820502,
+          -6.2949771
+        ]
+      },
+      "id": "node/4911895290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913949474",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Swadarma Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34 11604",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7604913,
+          -6.2189393
+        ]
+      },
+      "id": "node/4913949474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913949515",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pos Pengumben",
+        "amenity": "fuel",
+        "name": "SPBU 34 11608",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7634443,
+          -6.2172776
+        ]
+      },
+      "id": "node/4913949515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913956393",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34-13203",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8911901,
+          -6.1832299
+        ]
+      },
+      "id": "node/4913956393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4914018492",
+        "addr:postcode": "13540",
+        "addr:street": "Jalan Raya Bogor",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "name": "SPBU Pertamina 34-131505",
+        "opening_hours": "24/7",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8719003,
+          -6.2808308
+        ]
+      },
+      "id": "node/4914018492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4914205353",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Perintis Kemerdekaan",
+        "amenity": "fuel",
+        "name": "SPBG Jakprogas",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8865193,
+          -6.1709565
+        ]
+      },
+      "id": "node/4914205353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4915568089",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jend. Pol RS Soekamto",
+        "amenity": "fuel",
+        "name": "SPBU 34-13416",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9263156,
+          -6.2276415
+        ]
+      },
+      "id": "node/4915568089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916416966",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31.118-02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7112324,
+          -6.1551928
+        ]
+      },
+      "id": "node/4916416966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4916416974",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31.B.114.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7117393,
+          -6.1551074
+        ]
+      },
+      "id": "node/4916416974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918044887",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan TB Simatupang",
+        "amenity": "fuel",
+        "name": "SPBU 34-12502",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8349977,
+          -6.300077
+        ]
+      },
+      "id": "node/4918044887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918074259",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Penjernihan I",
+        "amenity": "fuel",
+        "name": "SPBU 34 10201",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8061472,
+          -6.2026097
+        ]
+      },
+      "id": "node/4918074259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918138364",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Halim Perdanakusuma, Kelurahan Kebon Pala, Kecamatan Makasar, Jakarta Timur",
+        "amenity": "fuel",
+        "name": "Pertamina 34. 136.05",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8808392,
+          -6.2514169
+        ]
+      },
+      "id": "node/4918138364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918138365",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Mayjend D.I. Panjaitan, Kelurahan Kebon Pala, Kecamatan Makasar, Jakarta Timur",
+        "amenity": "fuel",
+        "name": "SPBT Kemhan",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8779252,
+          -6.2427738
+        ]
+      },
+      "id": "node/4918138365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918263355",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Panjang Raya",
+        "amenity": "fuel",
+        "name": "34 - 11509",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7724768,
+          -6.2127071
+        ]
+      },
+      "id": "node/4918263355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918290662",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Peta Barat",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31-11804",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6879455,
+          -6.1308262
+        ]
+      },
+      "id": "node/4918290662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4918290669",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 31-118-03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6928621,
+          -6.1589708
+        ]
+      },
+      "id": "node/4918290669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925954088",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kiai Haji Samanhudi",
+        "amenity": "fuel",
+        "name": "SPBU 31.107.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8352389,
+          -6.1604596
+        ]
+      },
+      "id": "node/4925954088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925980474",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Lebak Bulus Raya",
+        "amenity": "fuel",
+        "name": "SPBG 31.A.124.02",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7723304,
+          -6.2957076
+        ]
+      },
+      "id": "node/4925980474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4926000711",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Buncit Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-12509",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8259008,
+          -6.2870402
+        ]
+      },
+      "id": "node/4926000711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4926000713",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Buncit Raya",
+        "amenity": "fuel",
+        "name": "SPBU Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8268305,
+          -6.2845802
+        ]
+      },
+      "id": "node/4926000713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4927843761",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jend. Pol RS Soekamto",
+        "amenity": "fuel",
+        "name": "SPBU 34-13415",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9365595,
+          -6.227102
+        ]
+      },
+      "id": "node/4927843761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928014336",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Lenteng Agung",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12604",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8405993,
+          -6.3005531
+        ]
+      },
+      "id": "node/4928014336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928014341",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Lenteng Agung",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12505",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8403794,
+          -6.3038736
+        ]
+      },
+      "id": "node/4928014341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928014344",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan TB Simatupang",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8530354,
+          -6.3024872
+        ]
+      },
+      "id": "node/4928014344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928121810",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Karang Tengah Raya",
+        "amenity": "fuel",
+        "name": "34 12410",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7820615,
+          -6.3040855
+        ]
+      },
+      "id": "node/4928121810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4928317770",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Husein Sastra Negara",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-15119",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6889191,
+          -6.1146753
+        ]
+      },
+      "id": "node/4928317770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4934209644",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "34.13506",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8795611,
+          -6.2851853
+        ]
+      },
+      "id": "node/4934209644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956067168",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Otista",
+        "amenity": "fuel",
+        "name": "SPBU 34.133.05",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8668725,
+          -6.2319158
+        ]
+      },
+      "id": "node/4956067168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956117957",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Otto Iskandardinata",
+        "amenity": "fuel",
+        "name": "SPBU 31.133.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8676406,
+          -6.2311816
+        ]
+      },
+      "id": "node/4956117957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956399203",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jatinegara Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34.133.07",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8624235,
+          -6.2144217
+        ]
+      },
+      "id": "node/4956399203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956471291",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jatinegara Timur",
+        "amenity": "fuel",
+        "name": "SPBU 34-13306",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8677111,
+          -6.2197321
+        ]
+      },
+      "id": "node/4956471291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960896352",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemanggisan Utama Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-11403",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7931524,
+          -6.190142
+        ]
+      },
+      "id": "node/4960896352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960896353",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kemanggisan Utama",
+        "amenity": "fuel",
+        "name": "SPBU 34.114.07",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7879838,
+          -6.188938
+        ]
+      },
+      "id": "node/4960896353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4963127706",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Industri Raya No. 1",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:diesel_1": "dex",
+        "fuel:octane_88": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "SPBU 31.107.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8384687,
+          -6.1490616
+        ]
+      },
+      "id": "node/4963127706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4963127707",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Gunung Sahari Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34.106.03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8353462,
+          -6.1501979
+        ]
+      },
+      "id": "node/4963127707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4963127708",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Industri",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8355178,
+          -6.1463717
+        ]
+      },
+      "id": "node/4963127708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4963491597",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan I Gusti Ngurah Rai",
+        "amenity": "fuel",
+        "name": "SPBU 34-13421",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9425823,
+          -6.2183322
+        ]
+      },
+      "id": "node/4963491597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4965326324",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Muhammad Kahfi I",
+        "amenity": "fuel",
+        "name": "SPBU 3412606",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8065882,
+          -6.333822
+        ]
+      },
+      "id": "node/4965326324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4967739217",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Rrof Dr. Latumenten Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-11301",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7948234,
+          -6.1486565
+        ]
+      },
+      "id": "node/4967739217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4968034605",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pasar Minggu",
+        "amenity": "fuel",
+        "name": "SPBU 34 12503",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8465351,
+          -6.2740575
+        ]
+      },
+      "id": "node/4968034605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4969771444",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Satu Maret",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-11806",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7033172,
+          -6.1303994
+        ]
+      },
+      "id": "node/4969771444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4969901003",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kartini Raya",
+        "amenity": "fuel",
+        "name": "SPBU 31.107.03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8308616,
+          -6.1482565
+        ]
+      },
+      "id": "node/4969901003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974492290",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Budi Raya",
+        "amenity": "fuel",
+        "name": "34.11511",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7819424,
+          -6.1950484
+        ]
+      },
+      "id": "node/4974492290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974594507",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Peta Utara",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-11801",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6981298,
+          -6.1430323
+        ]
+      },
+      "id": "node/4974594507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974780407",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ateri Panjang",
+        "amenity": "fuel",
+        "name": "34.11512",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.769136,
+          -6.1962238
+        ]
+      },
+      "id": "node/4974780407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974780412",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "jalan panjang raya",
+        "amenity": "fuel",
+        "name": "34 11508",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7693039,
+          -6.2005263
+        ]
+      },
+      "id": "node/4974780412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974780413",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kebon Jeruk Raya",
+        "amenity": "fuel",
+        "name": "34 11505",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7716258,
+          -6.1978948
+        ]
+      },
+      "id": "node/4974780413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976384112",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pusdika",
+        "amenity": "fuel",
+        "name": "SPBU 34.13706",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8885465,
+          -6.3660687
+        ]
+      },
+      "id": "node/4976384112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976388525",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Radar Auri",
+        "amenity": "fuel",
+        "name": "SPBU 34-13707",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8871061,
+          -6.3694728
+        ]
+      },
+      "id": "node/4976388525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976447273",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Ciracas",
+        "amenity": "fuel",
+        "name": "SPBU 34-13703",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8861647,
+          -6.3288827
+        ]
+      },
+      "id": "node/4976447273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976774193",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan I Gusti Ngurah Rai",
+        "amenity": "fuel",
+        "name": "SPBG Klender",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9051368,
+          -6.2138259
+        ]
+      },
+      "id": "node/4976774193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4978664990",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Panjang Arteri Kelapa Dua",
+        "amenity": "fuel",
+        "name": "34.11507",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7701343,
+          -6.2086047
+        ]
+      },
+      "id": "node/4978664990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4978664991",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Panjang Arteri Kelapa Dua",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7708911,
+          -6.2092455
+        ]
+      },
+      "id": "node/4978664991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4978664992",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pos Pengumben",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7666135,
+          -6.2166041
+        ]
+      },
+      "id": "node/4978664992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4978679984",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan RS Fatmawati",
+        "amenity": "fuel",
+        "name": "31.124.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79725,
+          -6.2721642
+        ]
+      },
+      "id": "node/4978679984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4978679985",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Haji Nawi Raya",
+        "amenity": "fuel",
+        "name": "34.124.11",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7866507,
+          -6.2634862
+        ]
+      },
+      "id": "node/4978679985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4979265197",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Panjang",
+        "amenity": "fuel",
+        "name": "Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7656718,
+          -6.174883
+        ]
+      },
+      "id": "node/4979265197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4979266363",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kedoya Raya",
+        "amenity": "fuel",
+        "name": "34.11506",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7575308,
+          -6.1772565
+        ]
+      },
+      "id": "node/4979266363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4979266364",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Panjang",
+        "amenity": "fuel",
+        "name": "34.11510",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7664233,
+          -6.180008
+        ]
+      },
+      "id": "node/4979266364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4981828257",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Karang Tengah",
+        "amenity": "fuel",
+        "name": "34-12409",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7807406,
+          -6.30926
+        ]
+      },
+      "id": "node/4981828257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4981849392",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Cipayung",
+        "amenity": "fuel",
+        "name": "Pertamina 34-13808",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8888744,
+          -6.3319619
+        ]
+      },
+      "id": "node/4981849392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982202043",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pangeran Jayakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34 10702",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8271923,
+          -6.1407468
+        ]
+      },
+      "id": "node/4982202043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982237083",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jagakarsa",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12608",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8253952,
+          -6.3289186
+        ]
+      },
+      "id": "node/4982237083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982237090",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Moh. Kahfi I",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12609",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.812471,
+          -6.3134417
+        ]
+      },
+      "id": "node/4982237090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982237091",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jagakarsa",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12508",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8226555,
+          -6.3269965
+        ]
+      },
+      "id": "node/4982237091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4982521401",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Benda Raya",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34-11802",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7109293,
+          -6.1036527
+        ]
+      },
+      "id": "node/4982521401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4984102643",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kedoya Raya",
+        "amenity": "fuel",
+        "name": "34.11504",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7619954,
+          -6.1889114
+        ]
+      },
+      "id": "node/4984102643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4984358357",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bogor",
+        "amenity": "fuel",
+        "name": "SPBU 31.37.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8624754,
+          -6.3530001
+        ]
+      },
+      "id": "node/4984358357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4984663538",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bogor",
+        "amenity": "fuel",
+        "name": "SPBU 34.16924",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8602613,
+          -6.353416
+        ]
+      },
+      "id": "node/4984663538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4985042208",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jend. Basuki Rachmat",
+        "amenity": "fuel",
+        "name": "SPBU 34-13412",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8921232,
+          -6.2290218
+        ]
+      },
+      "id": "node/4985042208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989321374",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34 11612",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7419678,
+          -6.1979256
+        ]
+      },
+      "id": "node/4989321374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989514074",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Warung Buncit Raya",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8264855,
+          -6.2838652
+        ]
+      },
+      "id": "node/4989514074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989514075",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Warung Jati Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34 12512",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82358,
+          -6.2904728
+        ]
+      },
+      "id": "node/4989514075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4989843310",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34 12510",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8252115,
+          -6.2956183
+        ]
+      },
+      "id": "node/4989843310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4991460917",
+        "amenity": "fuel",
+        "layer": "1",
+        "name": "SPBU",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8909001,
+          -6.3400085
+        ]
+      },
+      "id": "node/4991460917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4994325091",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Supriyadi",
+        "amenity": "fuel",
+        "name": "SPBU 34-13804",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8690629,
+          -6.3089363
+        ]
+      },
+      "id": "node/4994325091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995004529",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan TB Simatupang",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7999746,
+          -6.2928461
+        ]
+      },
+      "id": "node/4995004529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4998994020",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ampera Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34- 12504",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819489,
+          -6.2811522
+        ]
+      },
+      "id": "node/4998994020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999053039",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Hayam Wuruk",
+        "amenity": "fuel",
+        "name": "SPBU 34.111.04",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8189252,
+          -6.1566625
+        ]
+      },
+      "id": "node/4999053039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999291230",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan TB Simatupang",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12103",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8116395,
+          -6.2926096
+        ]
+      },
+      "id": "node/4999291230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999291232",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cilandak KKO",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12507",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8152643,
+          -6.2963032
+        ]
+      },
+      "id": "node/4999291232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999344621",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kalimalang",
+        "amenity": "fuel",
+        "name": "SPBU 34-13401",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9113238,
+          -6.2475541
+        ]
+      },
+      "id": "node/4999344621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999344682",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Radin Inten II",
+        "amenity": "fuel",
+        "name": "SPBU 34-13409",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9231197,
+          -6.2257652
+        ]
+      },
+      "id": "node/4999344682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999344688",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Radin Inten II",
+        "amenity": "fuel",
+        "name": "SPBU 34-13407",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9235654,
+          -6.2255124
+        ]
+      },
+      "id": "node/4999344688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999344692",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kalimalang",
+        "amenity": "fuel",
+        "name": "SPBU 31-13402",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9180106,
+          -6.2476314
+        ]
+      },
+      "id": "node/4999344692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999344925",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kol. Soegiono",
+        "amenity": "fuel",
+        "name": "SPBU 33-13402",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9124793,
+          -6.2289633
+        ]
+      },
+      "id": "node/4999344925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999597234",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Moh Kahfi II",
+        "amenity": "fuel",
+        "name": "SPBU 134 126 10",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8107908,
+          -6.3535677
+        ]
+      },
+      "id": "node/4999597234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4999597238",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Moh Kahfi I",
+        "amenity": "fuel",
+        "name": "SPBU 34 126 11",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8021083,
+          -6.3498905
+        ]
+      },
+      "id": "node/4999597238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006207260",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Arjuna Utara",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7716424,
+          -6.1890471
+        ]
+      },
+      "id": "node/5006207260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006351548",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7743767,
+          -6.1635128
+        ]
+      },
+      "id": "node/5006351548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006352161",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "34.11704",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7765603,
+          -6.164141
+        ]
+      },
+      "id": "node/5006352161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006573807",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bogor",
+        "amenity": "fuel",
+        "name": "SPBU 34-13704",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8654373,
+          -6.3209883
+        ]
+      },
+      "id": "node/5006573807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006734853",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Mabes Hankam",
+        "amenity": "fuel",
+        "name": "Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8974125,
+          -6.3087736
+        ]
+      },
+      "id": "node/5006734853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006840454",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan TB Simatupang",
+        "amenity": "fuel",
+        "name": "34-12412",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7943352,
+          -6.2927496
+        ]
+      },
+      "id": "node/5006840454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006840493",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Terogong Raya",
+        "amenity": "fuel",
+        "name": "34-12407",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7914505,
+          -6.2822186
+        ]
+      },
+      "id": "node/5006840493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5006840494",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Terogong Raya",
+        "amenity": "fuel",
+        "name": "Total",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7901349,
+          -6.2838156
+        ]
+      },
+      "id": "node/5006840494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5007086141",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan H. Naman",
+        "amenity": "fuel",
+        "name": "SPBU 34-13418",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9425605,
+          -6.2463903
+        ]
+      },
+      "id": "node/5007086141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009129454",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kedoya Raya",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7613924,
+          -6.1688464
+        ]
+      },
+      "id": "node/5009129454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013168986",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Panjang",
+        "amenity": "fuel",
+        "name": "34.11502",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7635059,
+          -6.1654516
+        ]
+      },
+      "id": "node/5013168986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013275447",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Lingkar Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34-11714",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7284012,
+          -6.1692277
+        ]
+      },
+      "id": "node/5013275447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013470001",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bogor KM 21",
+        "amenity": "fuel",
+        "name": "SPBU Metro Jaya",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8716868,
+          -6.2906121
+        ]
+      },
+      "id": "node/5013470001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013470002",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Supriyadi",
+        "amenity": "fuel",
+        "name": "SPBU 34.137.11",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8755414,
+          -6.3068903
+        ]
+      },
+      "id": "node/5013470002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013470003",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Bogor",
+        "amenity": "fuel",
+        "name": "SPBU 34.137.11",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8696906,
+          -6.3006664
+        ]
+      },
+      "id": "node/5013470003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5013882318",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan TB Simatupang",
+        "amenity": "fuel",
+        "name": "SPBU 34-13702",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8584091,
+          -6.3026152
+        ]
+      },
+      "id": "node/5013882318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019161690",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan RS. Fatmawati",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7956167,
+          -6.2899239
+        ]
+      },
+      "id": "node/5019161690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019465646",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Lenteng Agung Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12605",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8367946,
+          -6.3122487
+        ]
+      },
+      "id": "node/5019465646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019465649",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Lenteng Agung",
+        "amenity": "fuel",
+        "name": "SPBU 31 - 12601",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8365812,
+          -6.3182969
+        ]
+      },
+      "id": "node/5019465649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019465650",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Lenteng Agung",
+        "amenity": "fuel",
+        "name": "34 - 12602",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8376488,
+          -6.3186286
+        ]
+      },
+      "id": "node/5019465650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5019465651",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Lenteng Agung",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12603",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8371236,
+          -6.3208332
+        ]
+      },
+      "id": "node/5019465651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023353974",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tongkol",
+        "amenity": "fuel",
+        "name": "SPBU 34-14304",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8835214,
+          -6.1109176
+        ]
+      },
+      "id": "node/5023353974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023353975",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Enggano",
+        "amenity": "fuel",
+        "name": "SPBU 34-14308",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8849778,
+          -6.1101948
+        ]
+      },
+      "id": "node/5023353975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024153697",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Terminal BUS Kampung Rambutan",
+        "amenity": "fuel",
+        "name": "SPBG PT Jakarta Utilitas Propertindo",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8840168,
+          -6.3114292
+        ]
+      },
+      "id": "node/5024153697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024153741",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Supriyadi",
+        "amenity": "fuel",
+        "name": "SPBU 33.138.01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8778853,
+          -6.3075697
+        ]
+      },
+      "id": "node/5024153741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026090261",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pangeran Antasari",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8082318,
+          -6.2563407
+        ]
+      },
+      "id": "node/5026090261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026090272",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pangeran Antasari",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.808205,
+          -6.2654492
+        ]
+      },
+      "id": "node/5026090272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026203675",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pondok Gede, Kelurahan Lubang Buaya, Kecamatan Cipayung, Jakarta Timur",
+        "amenity": "fuel",
+        "name": "Pertamina SPBU 13802",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8965542,
+          -6.289461
+        ]
+      },
+      "id": "node/5026203675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5027538280",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kebayoran Lama",
+        "amenity": "fuel",
+        "name": "34.12204",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7782403,
+          -6.2286326
+        ]
+      },
+      "id": "node/5027538280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5027948832",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Gaya Motor Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-14310",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8909604,
+          -6.135881
+        ]
+      },
+      "id": "node/5027948832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032149102",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "addr:housenumber": "49;51;55",
+        "addr:postcode": "11470",
+        "addr:street": "Daan Mogot",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Total",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "operator": "Total",
+        "phone": "+62 21 5694 9525",
+        "source": "HOT_InAWARESurvey_2017",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7828608,
+          -6.165601
+        ]
+      },
+      "id": "node/5032149102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5033751702",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tanah Koja Duri Kosambi",
+        "amenity": "fuel",
+        "name": "SPBU 34 11708",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7188311,
+          -6.1827102
+        ]
+      },
+      "id": "node/5033751702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034144483",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kembangan",
+        "amenity": "fuel",
+        "name": "SPBU 34-11705",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7272639,
+          -6.1692917
+        ]
+      },
+      "id": "node/5034144483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034595431",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Lingkar Barat",
+        "amenity": "fuel",
+        "name": "Shell V-Power",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.726588,
+          -6.1612876
+        ]
+      },
+      "id": "node/5034595431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042318788",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "SPBU 34-11706",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7193246,
+          -6.1525873
+        ]
+      },
+      "id": "node/5042318788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042694087",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bina Marga",
+        "amenity": "fuel",
+        "name": "Pertamina 34-13803",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8918751,
+          -6.3165288
+        ]
+      },
+      "id": "node/5042694087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042931433",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Lingkar Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34-11707",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7295384,
+          -6.1304848
+        ]
+      },
+      "id": "node/5042931433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044687941",
+        "amenity": "fuel",
+        "name": "SPBU Perintis Kemerdekaan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8910341,
+          -6.1735669
+        ]
+      },
+      "id": "node/5044687941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047254145",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cendrawasih Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-11711",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7213014,
+          -6.144627
+        ]
+      },
+      "id": "node/5047254145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047420852",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Prof Dr Latumenten",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7907394,
+          -6.1593906
+        ]
+      },
+      "id": "node/5047420852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047421485",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jelambar Timur",
+        "amenity": "fuel",
+        "name": "31.114.04",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7923638,
+          -6.1558688
+        ]
+      },
+      "id": "node/5047421485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5047494889",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "31.114.03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7870986,
+          -6.1662436
+        ]
+      },
+      "id": "node/5047494889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052704137",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Gandaria I",
+        "amenity": "fuel",
+        "name": "SPBU 34-12114",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7879677,
+          -6.2442093
+        ]
+      },
+      "id": "node/5052704137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053266492",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Plumpang Semper",
+        "amenity": "fuel",
+        "name": "SPBU 34-14103",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9148466,
+          -6.1313394
+        ]
+      },
+      "id": "node/5053266492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053266495",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Logistik",
+        "amenity": "fuel",
+        "name": "SPBU 34-14209",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9161129,
+          -6.1343677
+        ]
+      },
+      "id": "node/5053266495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053533227",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Sultan Iskandar Muda",
+        "amenity": "fuel",
+        "name": "31.122.04",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7820883,
+          -6.2594816
+        ]
+      },
+      "id": "node/5053533227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5053533229",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Sultan Iskandar Muda",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7814193,
+          -6.259507
+        ]
+      },
+      "id": "node/5053533229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055779301",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kelapa Dua Wetan",
+        "amenity": "fuel",
+        "name": "SPBU 34-13708",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8830681,
+          -6.3451135
+        ]
+      },
+      "id": "node/5055779301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055940525",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "SPBU 34-11712",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7449504,
+          -6.1546087
+        ]
+      },
+      "id": "node/5055940525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055940546",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kamal Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-11703",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7282724,
+          -6.1488325
+        ]
+      },
+      "id": "node/5055940546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056125428",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tomang Raya",
+        "amenity": "fuel",
+        "name": "34.11402",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8032455,
+          -6.1742623
+        ]
+      },
+      "id": "node/5056125428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057542822",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kyai Tapa",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7965629,
+          -6.1666023
+        ]
+      },
+      "id": "node/5057542822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057604157",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Plumpang Semper",
+        "amenity": "fuel",
+        "name": "SPBU 34.14207",
+        "opening_hours": "24/7",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9079625,
+          -6.1290417
+        ]
+      },
+      "id": "node/5057604157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057618587",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kamal Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-11710",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.730783,
+          -6.133877
+        ]
+      },
+      "id": "node/5057618587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057790968",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ciputat Raya",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7785652,
+          -6.250791
+        ]
+      },
+      "id": "node/5057790968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057790969",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ciputat Raya",
+        "amenity": "fuel",
+        "name": "34.12213",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7768526,
+          -6.2599348
+        ]
+      },
+      "id": "node/5057790969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057790970",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Sultan Iskandar Muda",
+        "amenity": "fuel",
+        "name": "34.12302",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7813694,
+          -6.2572633
+        ]
+      },
+      "id": "node/5057790970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5057790971",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bintaro Raya",
+        "amenity": "fuel",
+        "name": "34 122 14",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7731914,
+          -6.2532839
+        ]
+      },
+      "id": "node/5057790971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063666171",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bintaro Permai",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12303",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7663544,
+          -6.2581645
+        ]
+      },
+      "id": "node/5063666171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063666176",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan R.C. Veteran Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12301",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.765078,
+          -6.2700637
+        ]
+      },
+      "id": "node/5063666176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063666187",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan R.C Veteran Raya",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7658877,
+          -6.2654326
+        ]
+      },
+      "id": "node/5063666187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5063666199",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kesehatan Raya",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 3412306",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7599908,
+          -6.2705763
+        ]
+      },
+      "id": "node/5063666199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5065804074",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34-13406",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9459434,
+          -6.2336998
+        ]
+      },
+      "id": "node/5065804074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068494853",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Artha Gading Boulevard",
+        "amenity": "fuel",
+        "name": "Pertamina 34-14210",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8968117,
+          -6.1467444
+        ]
+      },
+      "id": "node/5068494853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068494855",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Artha Gading Boulevard",
+        "amenity": "fuel",
+        "name": "Pertamina 34-14208",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8950844,
+          -6.1451417
+        ]
+      },
+      "id": "node/5068494855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068494858",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Komplek Kodamar",
+        "amenity": "fuel",
+        "name": "SPBT 32-12402",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.886732,
+          -6.1556594
+        ]
+      },
+      "id": "node/5068494858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068495577",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tabah I Ujung",
+        "amenity": "fuel",
+        "name": "Mako Kolinlamil 32-14301",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8898544,
+          -6.1655463
+        ]
+      },
+      "id": "node/5068495577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068495580",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tabah Raya",
+        "amenity": "fuel",
+        "name": "32-14201",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8865228,
+          -6.1567688
+        ]
+      },
+      "id": "node/5068495580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068568162",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Danau Sunter Utara",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8790233,
+          -6.1383733
+        ]
+      },
+      "id": "node/5068568162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068912660",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot KM 11",
+        "amenity": "fuel",
+        "name": "Shell V-Power",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7553302,
+          -6.1560301
+        ]
+      },
+      "id": "node/5068912660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5068912664",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Daan Mogot",
+        "amenity": "fuel",
+        "name": "SPBU 34.117.13",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7659996,
+          -6.158296
+        ]
+      },
+      "id": "node/5068912664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5070781647",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ciputat Raya",
+        "amenity": "fuel",
+        "name": "Pertamina 34-12208",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7778504,
+          -6.2487526
+        ]
+      },
+      "id": "node/5070781647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078301612",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan KKN",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 3412212",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.756036,
+          -6.2409257
+        ]
+      },
+      "id": "node/5078301612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5078301614",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ciledug Raya",
+        "amenity": "fuel",
+        "name": "SPBU 3412209",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7531025,
+          -6.2369321
+        ]
+      },
+      "id": "node/5078301614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080659280",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tabah I Ujung, Kelurahan Kelapa Gading Barat, Kecamatan Kelapa Gading, Jakarta Utara 14240",
+        "amenity": "fuel",
+        "name": "SPBT 32.1.0401",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8897964,
+          -6.1657956
+        ]
+      },
+      "id": "node/5080659280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080888045",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7716143,
+          -6.2859964
+        ]
+      },
+      "id": "node/5080888045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5080888047",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Ciputat Raya",
+        "amenity": "fuel",
+        "name": "34.12307",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7727931,
+          -6.2784087
+        ]
+      },
+      "id": "node/5080888047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5081112308",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Boulevard Barat, Kelurahan Kelapa Gading Barat, Kecamatan Kelapa Gading, Jakarta Utara",
+        "amenity": "fuel",
+        "name": "Pertamina 34 - 14201",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9014895,
+          -6.1584075
+        ]
+      },
+      "id": "node/5081112308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082958544",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tentara Pelajar",
+        "amenity": "fuel",
+        "name": "31.122.03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7905447,
+          -6.2214963
+        ]
+      },
+      "id": "node/5082958544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082958545",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Palmerah Barat",
+        "amenity": "fuel",
+        "name": "34.11205",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7880964,
+          -6.2080987
+        ]
+      },
+      "id": "node/5082958545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5083178649",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan RS Fatmawati",
+        "amenity": "fuel",
+        "name": "SPBU 34. 12401",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7967408,
+          -6.2585569
+        ]
+      },
+      "id": "node/5083178649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5083178709",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Radio Dalam Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34. 12115",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7888648,
+          -6.2595467
+        ]
+      },
+      "id": "node/5083178709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5083178748",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Radio Dalam Raya",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7892695,
+          -6.2603656
+        ]
+      },
+      "id": "node/5083178748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5084987226",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tubagus Angke",
+        "amenity": "fuel",
+        "name": "33.11301",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7764778,
+          -6.1452184
+        ]
+      },
+      "id": "node/5084987226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5087669679",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Bintaro Permai",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 12304",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7567763,
+          -6.2616812
+        ]
+      },
+      "id": "node/5087669679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5096956372",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Danau Sunter Selatan",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8669902,
+          -6.1468876
+        ]
+      },
+      "id": "node/5096956372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104583945",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBB",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7764009,
+          -6.1041519
+        ]
+      },
+      "id": "node/5104583945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104583952",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 14406",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7750962,
+          -6.10679
+        ]
+      },
+      "id": "node/5104583952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104583966",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7719388,
+          -6.1027699
+        ]
+      },
+      "id": "node/5104583966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104675988",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapuk Kamal Raya",
+        "amenity": "fuel",
+        "name": "34.14409",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7198342,
+          -6.1072345
+        ]
+      },
+      "id": "node/5104675988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104675989",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapuk Kamal Raya",
+        "amenity": "fuel",
+        "name": "34.14410",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7511906,
+          -6.1340918
+        ]
+      },
+      "id": "node/5104675989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104675990",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapuk Kamal Raya",
+        "amenity": "fuel",
+        "name": "34 14411",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7324996,
+          -6.1216094
+        ]
+      },
+      "id": "node/5104675990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104707228",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Budi Mulya Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34-14408",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.834614,
+          -6.134153
+        ]
+      },
+      "id": "node/5104707228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104803543",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pantai Indah Kapuk",
+        "amenity": "fuel",
+        "name": "34 14415",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7409968,
+          -6.1062477
+        ]
+      },
+      "id": "node/5104803543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104981269",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pluit Permai",
+        "amenity": "fuel",
+        "name": "SPBU 34- 14416",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7852087,
+          -6.1160389
+        ]
+      },
+      "id": "node/5104981269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104981276",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pluit Putra Raya",
+        "amenity": "fuel",
+        "name": "SPBG",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7918758,
+          -6.1182801
+        ]
+      },
+      "id": "node/5104981276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104981307",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 14403",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7962742,
+          -6.1246387
+        ]
+      },
+      "id": "node/5104981307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106742602",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapuk Raya",
+        "amenity": "fuel",
+        "name": "SPBKB 10.2.1.001",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7673425,
+          -6.1399265
+        ]
+      },
+      "id": "node/5106742602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106742606",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kapuk Raya",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34.14404",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7635609,
+          -6.1387449
+        ]
+      },
+      "id": "node/5106742606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5106912113",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Mandara Permai VII",
+        "amenity": "fuel",
+        "name": "Shell V-Power",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7530669,
+          -6.1126755
+        ]
+      },
+      "id": "node/5106912113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112245187",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Tuna Raya",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 14412",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8006862,
+          -6.1072087
+        ]
+      },
+      "id": "node/5112245187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112245219",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Gedong Panjang",
+        "amenity": "fuel",
+        "name": "SPBU 34 - 14414",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8057064,
+          -6.1303094
+        ]
+      },
+      "id": "node/5112245219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112245220",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pluit Selatan Raya",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7984316,
+          -6.1256205
+        ]
+      },
+      "id": "node/5112245220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112245651",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pluit Selatan Raya",
+        "amenity": "fuel",
+        "name": "SPBU 3414401",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8017471,
+          -6.1257509
+        ]
+      },
+      "id": "node/5112245651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112245674",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Jembatan Tiga",
+        "amenity": "fuel",
+        "name": "SPBU 3414407",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7919098,
+          -6.1312044
+        ]
+      },
+      "id": "node/5112245674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112284592",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Boulevard Timur",
+        "amenity": "fuel",
+        "name": "Pertamina 34-14205",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9152439,
+          -6.166629
+        ]
+      },
+      "id": "node/5112284592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112353618",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Rajawali Selatan",
+        "amenity": "fuel",
+        "name": "SPBU 34.14413",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8473099,
+          -6.1394941
+        ]
+      },
+      "id": "node/5112353618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112684149",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Kelapa Hybrida, Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara 14250",
+        "amenity": "fuel",
+        "name": "Pertamina 33-142-01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9167539,
+          -6.1484925
+        ]
+      },
+      "id": "node/5112684149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112684150",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pegangsaan Dua, Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara 14250",
+        "amenity": "fuel",
+        "name": "Pertamina 34-14206",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9163784,
+          -6.1529687
+        ]
+      },
+      "id": "node/5112684150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5112684173",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Terusan Boulevard Timur, Kelurahan Pegangsaan Dua, Kecamatan Kelapa Gading, Jakarta Utara 14250",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.91504,
+          -6.1659316
+        ]
+      },
+      "id": "node/5112684173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5114085557",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Inspeksi Kirana",
+        "amenity": "fuel",
+        "name": "SPBU 34-14105",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9339608,
+          -6.1324478
+        ]
+      },
+      "id": "node/5114085557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5116470452",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Tipar Cakung",
+        "amenity": "fuel",
+        "name": "34-14101",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9224429,
+          -6.1437763
+        ]
+      },
+      "id": "node/5116470452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5121434848",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Danau Sunter Utara",
+        "amenity": "fuel",
+        "name": "SPBU 34-14301",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8673182,
+          -6.1385707
+        ]
+      },
+      "id": "node/5121434848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5128190821",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cakung Cilincing Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34.14203",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9247842,
+          -6.1182856
+        ]
+      },
+      "id": "node/5128190821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5128190822",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Cakung Cilincing Barat",
+        "amenity": "fuel",
+        "name": "SPBU 34.14107",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9356633,
+          -6.1383793
+        ]
+      },
+      "id": "node/5128190822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5130476888",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Marunda Makmur",
+        "amenity": "fuel",
+        "name": "SPBU Pertamina 34.14106",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9625902,
+          -6.1073145
+        ]
+      },
+      "id": "node/5130476888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132941190",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Cilincing, Kelurahan Cilincing, Kecamatan Cilincing, Jakarta Utara",
+        "amenity": "fuel",
+        "name": "Pertamina 34 - 14109",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9372407,
+          -6.1029236
+        ]
+      },
+      "id": "node/5132941190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134335478",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Yos Sudarso",
+        "amenity": "fuel",
+        "name": "Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8888724,
+          -6.1480165
+        ]
+      },
+      "id": "node/5134335478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134336081",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Yos Sudarso",
+        "amenity": "fuel",
+        "name": "SBPU 31-143-01",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8895483,
+          -6.145331
+        ]
+      },
+      "id": "node/5134336081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134336082",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Yos Sudarso",
+        "amenity": "fuel",
+        "name": "SPBU 34-14204",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8864504,
+          -6.1529847
+        ]
+      },
+      "id": "node/5134336082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134938983",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34-14306",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8737528,
+          -6.1463884
+        ]
+      },
+      "id": "node/5134938983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134938997",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBU 34-14307",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8857744,
+          -6.1465631
+        ]
+      },
+      "id": "node/5134938997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134939000",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Sunter Kemayoran",
+        "amenity": "fuel",
+        "name": "SPBU 34-14305",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8753433,
+          -6.1621236
+        ]
+      },
+      "id": "node/5134939000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142117708",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Pluit Selatan Raya",
+        "amenity": "fuel",
+        "name": "SPBU Shell",
+        "operator": "Shell",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7971803,
+          -6.1255818
+        ]
+      },
+      "id": "node/5142117708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142536031",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan RE Martadinata",
+        "amenity": "fuel",
+        "name": "SPBU 34-143-03",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8297578,
+          -6.1308308
+        ]
+      },
+      "id": "node/5142536031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142536041",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Kampung Bandan RT 02 RW 04 Ancol Jakarta Utara",
+        "amenity": "fuel",
+        "name": "SPBU 34-14405",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8171716,
+          -6.1337917
+        ]
+      },
+      "id": "node/5142536041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158433612",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan Raya Pulo Gebang",
+        "amenity": "fuel",
+        "name": "SPBU 34-13905",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.955874,
+          -6.1998189
+        ]
+      },
+      "id": "node/5158433612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158433828",
+        "addr:city": "DKI Jakarta",
+        "addr:full": "Jalan P. Komarudin",
+        "amenity": "fuel",
+        "name": "SPBU 34-13911",
+        "operator": "PT Pertamina",
+        "source": "HOT_InAWARESurvey_2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9468283,
+          -6.2031342
+        ]
+      },
+      "id": "node/5158433828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160138738",
+        "addr:street": "Jalan Letjen M. T. Haryono",
+        "amenity": "fuel",
+        "name": "SPBU 34-12705",
+        "operator": "PT Pertamina",
+        "phone": "+62 21 7918 4314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8527997,
+          -6.2438113
+        ]
+      },
+      "id": "node/5160138738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160138739",
+        "addr:city": "Jakarta Selatan",
+        "amenity": "fuel",
+        "name": "SPBU",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8085506,
+          -6.2622401
+        ]
+      },
+      "id": "node/5160138739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160138740",
+        "amenity": "fuel",
+        "name": "SPBU",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9003961,
+          -6.3386733
+        ]
+      },
+      "id": "node/5160138740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5160138741",
+        "amenity": "fuel",
+        "name": "SPBU 34-14108",
+        "operator": "PT Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9482857,
+          -6.1110269
+        ]
+      },
+      "id": "node/5160138741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302792621",
+        "addr:street": "Jalan Kalimalang",
+        "amenity": "fuel",
+        "name:en": "Oil gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9058632,
+          -6.2460658
+        ]
+      },
+      "id": "node/5302792621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5395341422",
+        "addr:city": "Cengkareng Timur, West Jakarta",
+        "addr:postcode": "11730",
+        "addr:street": "Jalan Kincir Raya",
+        "amenity": "fuel",
+        "name": "Blue Gazz",
+        "name:en": "BlueGaz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7300057,
+          -6.1471402
+        ]
+      },
+      "id": "node/5395341422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203331100",
+        "amenity": "fuel",
+        "name:en": "pgn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7931082,
+          -6.1661817
+        ]
+      },
+      "id": "node/6203331100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6203331213",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7964445,
+          -6.1616737
+        ]
+      },
+      "id": "node/6203331213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239515793",
+        "amenity": "fuel",
+        "name:en": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8205034,
+          -6.2198297
+        ]
+      },
+      "id": "node/6239515793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6281993092",
+        "amenity": "fuel",
+        "name:en": "Pertamina 31-124-02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7978735,
+          -6.2722272
+        ]
+      },
+      "id": "node/6281993092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6393440287",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8960202,
+          -6.1153224
+        ]
+      },
+      "id": "node/6393440287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6393446786",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8995032,
+          -6.114359
+        ]
+      },
+      "id": "node/6393446786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400698788",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8031031,
+          -6.1165852
+        ]
+      },
+      "id": "node/6400698788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400793488",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8026981,
+          -6.1135467
+        ]
+      },
+      "id": "node/6400793488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400793492",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8037071,
+          -6.1206317
+        ]
+      },
+      "id": "node/6400793492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400793493",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8038019,
+          -6.1206259
+        ]
+      },
+      "id": "node/6400793493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400793494",
+        "amenity": "fuel",
+        "name:en": "Pertamina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8042322,
+          -6.1215943
+        ]
+      },
+      "id": "node/6400793494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400808288",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8038541,
+          -6.1240755
+        ]
+      },
+      "id": "node/6400808288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400809589",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8026141,
+          -6.1118487
+        ]
+      },
+      "id": "node/6400809589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400822588",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8034509,
+          -6.118815
+        ]
+      },
+      "id": "node/6400822588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400825386",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8032263,
+          -6.1173903
+        ]
+      },
+      "id": "node/6400825386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6423635186",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8289199,
+          -6.3386209
+        ]
+      },
+      "id": "node/6423635186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6424661687",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8197888,
+          -6.3504344
+        ]
+      },
+      "id": "node/6424661687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6424662185",
+        "amenity": "fuel",
+        "name:en": "Pertamini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.819408,
+          -6.3516429
+        ]
+      },
+      "id": "node/6424662185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6900290686",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814329,
+          -6.1957759
+        ]
+      },
+      "id": "node/6900290686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6923970719",
+        "addr:city": "DKI Jakarta",
+        "amenity": "fuel",
+        "name": "SPBG Ancol",
+        "operator": "Jakpro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8305571,
+          -6.1277179
+        ]
+      },
+      "id": "node/6923970719"
+    }
+  ]
+}
